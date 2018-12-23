@@ -12,7 +12,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: radial-gradient( circle,  
   rgba(0, 212, 236, 0.699) 20%, rgba(0, 153, 170, 0.829) 90%, rgba(0, 130, 145, 0.925)); /* w3c */
-  
+  background-attachment: fixed;
 }
 
 button{
